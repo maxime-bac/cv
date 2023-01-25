@@ -232,7 +232,7 @@ header .navbar ul a:hover{
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
-    padding 1rem 0;
+    padding: 1rem 0;
     padding-left: 3rem;
 }
 
@@ -267,7 +267,7 @@ header .navbar ul a:hover{
 
 .education .box-container .box i{
     position: absolute;
-    top -1.5rem; left: -2.5rem;
+    top: -1.5rem; left: -2.5rem;
     height: 5rem;
     width: 5rem;
     border-radius: 50%;
