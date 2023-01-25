@@ -190,14 +190,14 @@ header .navbar ul a:hover{
     padding-left: 6rem;
 }
 
-.about .row .info h3{
+.about .row .info p{
     font-size: 2rem;
     color: var(--yellow);
     padding: 1rem 0;
     font-weight: normal;
 }
 
-.about .row .info h3 span{
+.about .row .info p span{
     color: #eee;
     padding: 0 .5rem;
 }
